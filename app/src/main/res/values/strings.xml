@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCounter</string>
+    <string name="add">Добавить</string>
+    <string name="zero">0</string>
+</resources>
